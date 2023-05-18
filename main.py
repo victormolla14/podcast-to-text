@@ -2,7 +2,7 @@ import openai
 import os
 from pydub import AudioSegment
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 
 prompt_generatePodcastResume = """/
     Eres un gran comprensor de texto y contenido./
